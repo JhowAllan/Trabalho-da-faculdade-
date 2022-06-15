@@ -1,0 +1,398 @@
+*, *::after, *::before{
+	padding: 0;
+	margin: 0;
+	box-sizing:border-box ;
+}
+.e30_53 { 
+	overflow:hidden;
+}
+.e30_53 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:3120px;
+	position:absolute;
+}
+.e30_73 { 
+	width:313px;
+	height:235px;
+	position:absolute;
+	left:1070px;
+	top:370px;
+	background-image:url(images/fd716cc5_f532_453f_f799_cfe1da199900_l_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e30_74 { 
+	width:369px;
+	height:277px;
+	position:absolute;
+	left:591px;
+	top:370px;
+	background-image:url(images/27082832364158d57a838c2259_43098833_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e30_75 { 
+	width:359px;
+	height:360px;
+	position:absolute;
+	left:58px;
+	top:370px;
+	background-image:url(images/bota_de_prote__o_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e30_76 { 
+	width:341px;
+	height:341px;
+	position:absolute;
+	left:113px;
+	top:960px;
+	background-image:url(images/1048402_respirador_3m_6200_com_filtros_para_odores_e_gases_acidos_m20_637359623189965304_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e30_77 { 
+	width:337px;
+	height:337px;
+	position:absolute;
+	left:572px;
+	top:960px;
+	background-image:url(images/3135499865_1_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e30_78 { 
+	width:324px;
+	height:375px;
+	position:absolute;
+	left:1059px;
+	top:960px;
+	background-image:url(images/protetor_auricular_3m_h9a_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e30_79 { 
+	color:rgba(0, 0, 0, 1);
+	width:396px;
+	height:44px;
+	position:absolute;
+	left:58px;
+	top:722px;
+	font-family:Changa One;
+	text-align:left;
+	font-size:50px;
+	letter-spacing:0;
+}
+.e30_80 { 
+	color:rgba(0, 0, 0, 1);
+	width:166px;
+	height:52px;
+	position:absolute;
+	left:686px;
+	top:722px;
+	font-family:Changa One;
+	text-align:left;
+	font-size:50px;
+	letter-spacing:0;
+}
+.e30_81 { 
+	color:rgba(0, 0, 0, 1);
+	width:137px;
+	height:45px;
+	position:absolute;
+	left:1158px;
+	top:722px;
+	font-family:Changa One;
+	text-align:left;
+	font-size:50px;
+	letter-spacing:0;
+}
+.e30_82 { 
+	color:rgba(0, 0, 0, 1);
+	width:219px;
+	height:51px;
+	position:absolute;
+	left:643px;
+	top:1357px;
+	font-family:Changa One;
+	text-align:left;
+	font-size:50px;
+	letter-spacing:0;
+}
+.e30_83 { 
+	color:rgba(0, 0, 0, 1);
+	width:403px;
+	height:52px;
+	position:absolute;
+	left:1022px;
+	top:1357px;
+	font-family:Changa One;
+	text-align:left;
+	font-size:50px;
+	letter-spacing:0;
+}
+.e30_84 { 
+	color:rgba(0, 0, 0, 1);
+	width:504px;
+	height:49px;
+	position:absolute;
+	left:34px;
+	top:1357px;
+	font-family:Changa One;
+	text-align:left;
+	font-size:50px;
+	letter-spacing:0;
+}
+.e30_134 { 
+	background-color:rgba(145.00000655651093, 205.00000298023224, 231.00000143051147, 1);
+	width:1441px;
+	height:41px;
+	position:absolute;
+	left:-1px;
+	top:189px;
+}
+.e30_135 { 
+	color:rgba(0, 0, 0, 1);
+	width:210px;
+	height:15px;
+	position:absolute;
+	left:664px;
+	top:200px;
+	font-family:League Spartan;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e30_136 { 
+	color:rgba(0, 0, 0, 1);
+	width:50px;
+	height:20px;
+	position:absolute;
+	left:324px;
+	top:200px;
+	font-family:League Spartan;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e30_137 { 
+	color:rgba(0, 0, 0, 1);
+	width:80px;
+	height:15px;
+	position:absolute;
+	left:909px;
+	top:200px;
+	font-family:League Spartan;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e30_138 { 
+	color:rgba(0, 0, 0, 1);
+	width:70px;
+	height:14px;
+	position:absolute;
+	left:1024px;
+	top:200px;
+	font-family:League Spartan;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e30_145 { 
+	color:rgba(0, 0, 0, 1);
+	width:220px;
+	height:19px;
+	position:absolute;
+	left:409px;
+	top:200px;
+	font-family:League Spartan;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e31_31 { 
+	background-color:rgba(145.00000655651093, 205.00000298023224, 231.00000143051147, 1);
+	width:1441px;
+	height:41px;
+	position:absolute;
+	left:-1px;
+	top:189px;
+}
+.e31_32 { 
+	color:rgba(0, 0, 0, 1);
+	width:210px;
+	height:15px;
+	position:absolute;
+	left:664px;
+	top:200px;
+	font-family:League Spartan;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e31_33 { 
+	color:rgba(0, 0, 0, 1);
+	width:50px;
+	height:20px;
+	position:absolute;
+	left:324px;
+	top:200px;
+	font-family:League Spartan;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e31_34 { 
+	color:rgba(0, 0, 0, 1);
+	width:80px;
+	height:15px;
+	position:absolute;
+	left:909px;
+	top:200px;
+	font-family:League Spartan;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e31_35 { 
+	color:rgba(0, 0, 0, 1);
+	width:70px;
+	height:14px;
+	position:absolute;
+	left:1024px;
+	top:200px;
+	font-family:League Spartan;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e31_42 { 
+	color:rgba(0, 0, 0, 1);
+	width:220px;
+	height:19px;
+	position:absolute;
+	left:409px;
+	top:200px;
+	font-family:League Spartan;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e31_19 { 
+	color:rgba(0, 0, 0, 1);
+	width:230px;
+	height:60px;
+	position:absolute;
+	left:1130px;
+	top:2727px;
+	font-family:Mitr;
+	text-align:left;
+	font-size:48px;
+	letter-spacing:0;
+}
+.e31_20 { 
+	color:rgba(0, 0, 0, 1);
+	width:186px;
+	height:35px;
+	position:absolute;
+	left:1160px;
+	top:2805px;
+	font-family:Mitr;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e31_21 { 
+	width:29px;
+	height:28px;
+	position:absolute;
+	left:1108px;
+	top:2809px;
+	background-image:url(images/png_transparent_computer_icons_telephone_mobile_phones_symbol_headphones_symbol_miscellaneous_text_mobile_phones_removebg_preview_4.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e31_22 { 
+	color:rgba(0, 0, 0, 1);
+	width:208px;
+	height:39px;
+	position:absolute;
+	left:1160px;
+	top:2850px;
+	font-family:Mitr;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e31_23 { 
+	width:36px;
+	height:35px;
+	position:absolute;
+	left:1105px;
+	top:2852px;
+	background-image:url(images/png_transparent_email_computer_icons_email_miscellaneous_angle_rectangle_thumbnail_removebg_preview_4.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e31_24 { 
+	color:rgba(0, 0, 0, 1);
+	width:289px;
+	height:50px;
+	position:absolute;
+	left:487px;
+	top:2732px;
+	font-family:Mitr;
+	text-align:left;
+	font-size:48px;
+	letter-spacing:0;
+}
+.e31_25 { 
+	color:rgba(0, 0, 0, 1);
+	width:361px;
+	height:50px;
+	position:absolute;
+	left:466px;
+	top:2805px;
+	font-family:Mitr;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e65_18 { 
+	background-color:rgba(3.999999761581421, 81.00002557039261, 218.00000220537186, 0.6600000262260437);
+	width:1440px;
+	height:189px;
+	position:absolute;
+	left:-1px;
+	top:0px;
+}
+.e65_19 { 
+	width:201px;
+	height:142px;
+	position:absolute;
+	left:619px;
+	top:23px;
+	background-image:url(images/image_5.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e65_20 { 
+	background-color:rgba(89.00000229477882, 140.00000685453415, 231.00000143051147, 0.6600000262260437);
+	width:1441px;
+	height:436px;
+	position:absolute;
+	left:0px;
+	top:2684px;
+}
+.e65_21 { 
+	width:188px;
+	height:133px;
+	position:absolute;
+	left:65px;
+	top:2754px;
+	background-image:url(images/image_5.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
