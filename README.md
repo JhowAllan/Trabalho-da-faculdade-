@@ -1,1 +1,37 @@
-# Trabalho-da-faculdade-
+<!DOCTYPE html>
+<html lang="pt-br">
+          <head>
+            <meta charset="UTF-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Ducorte Ferramenras</title>
+            <meta name="description" content="Figma htmlGenerator">
+            <meta name="author" content="htmlGenerator">
+            <link href="https://fonts.googleapis.com/css?family=League+Spartan&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Mitr&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=David+Libre&display=swap" rel="stylesheet">
+
+            <link rel="stylesheet" href="styles.css">
+            
+            <style>
+              /*
+                Figma Background for illustrative/preview purposes only.
+                You can remove this style tag with no consequence
+              */
+              body {background: #E5E5E5; }
+            </style>
+          
+          </head>
+          
+          <body> 
+              <body>
+                <p class="botao">
+                <a href="C:\Users\T-Gamer\Desktop\Ducorte 4.0\Pagina-2\pagina-2.html" title="Equipamentos de Proteção">Equipamentos de proteção</a>
+                </p>
+            <div class=e2_2><div  class="e3_14"></div><div  class="e3_15"></div><span  class="e3_17">Instrumentos de Precisão
+</span><div  class="e8_2"></div><div  class="e8_3"></div><span  class="e8_58">Home</span><span  class="e8_59">Máquinas </span><div  class="e30_93"></div><div  class="e30_91"></div><span  class="e8_60">Contato
+</span><div  class="e24_13"></div><span  class="e24_14">Contatos:</span><span  class="e24_15">(11) 3322-2300</span><div  class="e24_16"></div><span  class="e24_17">Ducorte@uol.com.br
+</span><div  class="e24_18"></div><span  class="e24_19">Localização</span><span  class="e24_20">Rua Flôrencio de Abrau, 636
+CEP: 01030 - 001 - São Paulo - SP</span><div  class="e24_24"></div><div  class="e24_30"></div><div  class="e24_31"></div><span  class="e24_32">Equipamentos de Proteção  </span><div  class="e26_10"></div><div  class="e26_11"></div><span  class="e30_92">Exelência em Ferramentas</span><div  class="e54_7"></div><div  class="e54_9"></div><div  class="e54_11"></div></div>
+          </body>
+          </html>
